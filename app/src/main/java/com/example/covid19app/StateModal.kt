@@ -5,4 +5,4 @@ data class StateModal (
     val recovered: Int,
     val deaths:Int,
     val cases: Int
-        )
+    )
